@@ -59516,7 +59516,7 @@ n=H.dH(n,p,r)}P.cX("\u0417\u0430\u043c\u0435\u043d\u0430: "+H.b(n))
 k=n[0]==="!"&&!0
 P.cX(n)
 r=s.b
-n=s.jE(s.jE(s.jE(s.jE(s.jE(s.jE(s.jE(n,"|",r.gIu()),"\u2227",r.gG_()),"\u2193",r.gIv()),"\u2228",r.gIC()),"\u2295",r.gJP()),"\u2192",r.gHP()),"~",r.gJO())
+n=s.jE(s.jE(s.jE(s.jE(s.jE(s.jE(s.jE(n,"\u2227",r.gG_()),"\u2228",r.gIC()),"\u2295",r.gJP()),"\u2192",r.gHP()),"~",r.gJO()),"|",r.gIu()),"\u2193",r.gIv())
 n=H.dH(n,"(","")
 n=H.dH(n,")","")
 P.cX(n)
